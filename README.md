@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Asaduzzaman Shihab 👋
 
-<!--
-**A-Shihab/A-Shihab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Backend & AI | DL | LLM Engineer
 
-Here are some ideas to get you started:
+Passionate software engineer specializing in building high-performance backend systems and deploying scalable Deep Learning & LLM/RAG solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Technical Stack
+
+* **Backend Development:** Python, Django, Django REST Framework, Node.js, Express, FastAPI, RESTful APIs
+* **AI / Deep Learning:** PyTorch, TensorFlow, Keras, Transformers (Hugging Face), Computer Vision, YOLO
+* **LLMs & RAG:** Retrieval-Augmented Generation (RAG), Vector Databases (pgvector), LangChain, Fine-tuning, Ollama
+* **Databases & Tools:** PostgreSQL, MongoDB, Git, Docker, Linux, Postman
+
+---
+
+### 🔬 Core Capabilities & Projects
+
+* 🛠️ **Scalable Backends:** Architecting RESTful microservices and robust API backends with Django REST Framework and Node.js.
+* 🧠 **LLM & RAG Pipelines:** Building production-ready RAG systems using vector databases for context-aware AI assistants and search engines.
+* 🎯 **Computer Vision & Deep Learning:** Developing deep neural network architectures, custom model training, and vision-language integration.
+
+---
+
+### 📫 Connect with Me
+
+* 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/assaduzzaman-shihab-713738225?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* 📧 **Email:** [asad.zaman.shihab.recursion@gmail.com](mailto:asad.zaman.shihab.recursion@gmail.com)
