@@ -2,6 +2,8 @@
 
 ### 🚀 Backend & AI | DL | LLM Engineer
 
+Portfolio: https://a-shihab.github.io/
+
 Passionate software engineer specializing in building high-performance backend systems and deploying scalable Deep Learning & LLM/RAG solutions.
 
 ---
